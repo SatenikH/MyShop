@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Order\MyShop\EFMyShop\EFMyShop\bin\Debug\netcoreapp2.1\EFMyShop.deps.json
+C:\Users\User\Desktop\Order\MyShop\EFMyShop\EFMyShop\bin\Debug\netcoreapp2.1\EFMyShop.dll
+C:\Users\User\Desktop\Order\MyShop\EFMyShop\EFMyShop\obj\Debug\netcoreapp2.1\EFMyShop.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Order\MyShop\EFMyShop\EFMyShop\obj\Debug\netcoreapp2.1\EFMyShop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Order\MyShop\EFMyShop\EFMyShop\obj\Debug\netcoreapp2.1\EFMyShop.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Order\MyShop\EFMyShop\EFMyShop\obj\Debug\netcoreapp2.1\EFMyShop.AssemblyInfo.cs
+C:\Users\User\Desktop\Order\MyShop\EFMyShop\EFMyShop\bin\Debug\netcoreapp2.1\EFMyShop.pdb
+C:\Users\User\Desktop\Order\MyShop\EFMyShop\EFMyShop\obj\Debug\netcoreapp2.1\EFMyShop.dll
+C:\Users\User\Desktop\Order\MyShop\EFMyShop\EFMyShop\obj\Debug\netcoreapp2.1\EFMyShop.pdb
